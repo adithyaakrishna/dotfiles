@@ -4,4 +4,4 @@ PS. Commands might be a bit silly but you know its `Personal Configuration`
 
 ### License
 
-[DWTFYW](./LICENSE)
+[WTFPL license](./LICENSE)
