@@ -1,3 +1,5 @@
+nvm install 16.18.0
+nvm install 14.18.0
 nvm install 16.16.0
 git config --global user.name "Adithya Krishna"
 git config --global user.email "adikrish@redhat.com"
